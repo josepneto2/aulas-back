@@ -1,0 +1,14 @@
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\bin\Debug\net8.0\Cassino.exe
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\bin\Debug\net8.0\Cassino.deps.json
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\bin\Debug\net8.0\Cassino.runtimeconfig.json
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\bin\Debug\net8.0\Cassino.dll
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\bin\Debug\net8.0\Cassino.pdb
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\Cassino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\Cassino.AssemblyInfoInputs.cache
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\Cassino.AssemblyInfo.cs
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\Cassino.csproj.CoreCompileInputs.cache
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\Cassino.dll
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\refint\Cassino.dll
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\Cassino.pdb
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\Cassino.genruntimeconfig.cache
+C:\Users\JoséPassagnoloNeto\Desktop\aulas-back\aulas-back\Cassino\obj\Debug\net8.0\ref\Cassino.dll

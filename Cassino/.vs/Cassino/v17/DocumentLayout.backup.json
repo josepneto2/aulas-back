@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9PassagnoloNeto\\Desktop\\aulas-back\\aulas-back\\Cassino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11F50A34-9689-42CB-8573-51E72314F516}|Cassino.csproj|c:\\users\\jos\u00E9passagnoloneto\\desktop\\aulas-back\\aulas-back\\cassino\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11F50A34-9689-42CB-8573-51E72314F516}|Cassino.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11F50A34-9689-42CB-8573-51E72314F516}|Cassino.csproj|c:\\users\\jos\u00E9passagnoloneto\\desktop\\aulas-back\\aulas-back\\cassino\\cassino.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11F50A34-9689-42CB-8573-51E72314F516}|Cassino.csproj|solutionrelative:cassino.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9PassagnoloNeto\\Desktop\\aulas-back\\aulas-back\\Cassino\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9PassagnoloNeto\\Desktop\\aulas-back\\aulas-back\\Cassino\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:11:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cassino",
+              "DocumentMoniker": "C:\\Users\\Jos\u00E9PassagnoloNeto\\Desktop\\aulas-back\\aulas-back\\Cassino\\Cassino.csproj",
+              "RelativeDocumentMoniker": "Cassino.csproj",
+              "ToolTip": "C:\\Users\\Jos\u00E9PassagnoloNeto\\Desktop\\aulas-back\\aulas-back\\Cassino\\Cassino.csproj",
+              "RelativeToolTip": "Cassino.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T16:11:32.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
