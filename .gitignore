@@ -1,1 +1,14 @@
-.vs
+.vs/
+
+*.bin
+*.obj
+
+*.log
+*.tmp
+*.cache
+
+*.user
+*.suo
+
+*.pdb
+*.tlog
